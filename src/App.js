@@ -12,7 +12,7 @@ function App() {
         alt = "logo" / >
         <
         p >
-        Edit < code > srcuuuuu/ App.js < /code>. <
+        Edit < code > src source / App.js < /code>. <
         /p> <
         a className = "App-link"
         href = "https://reactjs.org"
